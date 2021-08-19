@@ -13,34 +13,34 @@ General research interests include fundamentals of <span style="color:blue"> **q
 - [Download my PDF CV](https:NULL)
 
 ## Research Experience
-- **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 &#150 Present</span>  
+- **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — Present</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
 ***Research Area:*** Quantum Information Science  
 
-- **Postdoctoral Fellow** <span style="float:right">September 2020 -- December 2020</span>  
+- **Postdoctoral Fellow** <span style="float:right">September 2020 — December 2020</span>  
 Center for Quantum Information  
 Korea Institute of Science and Technology (KIST), Korea  
 ***Research Area:*** Quantum Information Science  
 
-- **Postdoctoral Fellow** <span style="float:right">September 2019 -- August 2020</span>  
+- **Postdoctoral Fellow** <span style="float:right">September 2019 — August 2020</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
 ***Research Area:*** Quantum Information Science  
 
-- **Research Associate** <span style="float:right">December 2013 -- August 2014</span>  
+- **Research Associate** <span style="float:right">December 2013 — August 2014</span>  
 Center for Advanced Studies in Telecommunication (CAST)   
 COMSATS University Islamabad, Pakistan  
 ***Research Area:*** Image Processing  
 
 
 ## Education
-- **Ph.D. in Electronic Engineering** <span style="float:right">September 2014 -- August 2019</span>  
+- **Ph.D. in Electronic Engineering** <span style="float:right">September 2014 — August 2019</span>  
 Department of Electronic Engineering  
 Kyung Hee University, Korea  
 ***Thesis Title:*** Dequantumization of Discrete Weyl Quantum Channels
 
-- **BE in Electrical Engineering** <span style="float:right">September 2014 -- August 2019</span>  
+- **BE in Electrical Engineering** <span style="float:right">September 2014 — August 2019</span>  
 Department of Electrical Engineering  
 National University of Sciences and Technology (NUST), Pakistan  
 ***Thesis Title:*** Multivariate PID Controlloer with HMI
