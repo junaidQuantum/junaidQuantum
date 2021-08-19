@@ -1,12 +1,13 @@
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
 ## Junaid ur Rehman, Ph.D.
 ### BK21 Reseach Professor and Postdoctoral Fellow
 Department of Electronic and Information Convergence Engineering  
 Kyung Hee University, Korea
 
 
-
+## Online Profile
+- [Google Scholar](https://scholar.google.com/citations?user=EptCk9MAAAAJ&hl=en)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138)
+- [Researchgate](https://www.researchgate.net/profile/Junaid-Ur-Rehman-3)
   
 ## Welcome to GitHub Pages
 
