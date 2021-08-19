@@ -4,7 +4,7 @@ markdown: kramdown
 
 description: Email: junaid.572 at gmail.com
 show_downloads: false
-logo: icon.png
+logo: /icon.png
 
 theme: jekyll-theme-minimal
 
