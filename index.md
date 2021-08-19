@@ -33,6 +33,7 @@ Center for Advanced Studies in Telecommunication (CAST)
 COMSATS University Islamabad, Pakistan  
 ***Research Area:*** Image Processing  
 
+<span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>  
 
 ## Education
 - **Ph.D. in Electronic Engineering** <span style="float:right">September 2014 — August 2019</span>  
@@ -46,7 +47,7 @@ National University of Sciences and Technology (NUST), Pakistan
 ***Thesis Title:*** Multivariate PID Controlloer with HMI
 
 
-<span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>
+<span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>  
 
 ## Journal Papers
 
@@ -68,4 +69,4 @@ National University of Sciences and Technology (NUST), Pakistan
 14. **J. ur Rehman**, S. Qaisar, Y. Jeong, and H. Shin,“Security of a control key in quantum key distribution,” *Modern Physics Letters B*, vol. 31, no. 11, pp. 1–12, Apr. 2017.
 15. T. Bashir, I. Usman, and **J. ur Rehman**, “Secure digital watermarking using optimized improved spread spectrum and BCH coding for DIBR 3D-TV system,” *Multimedia Tools and Applications*, vol. 75, no. 13, pp. 7697–7713, Jul. 2016.
 
-<span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>
+<span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>  
