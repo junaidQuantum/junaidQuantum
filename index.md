@@ -1,6 +1,6 @@
 ---
-title: "Junaid ur Rehman"
-subtitle: "BK21 Research Professor and Postdoctoral Fellow at Department of Electronic and Convergence Engineering, Kyung Hee University, Korea"
+title: "Junaid ur Rehman\
+<sub>BK21 Research Professor and Postdoctoral Fellow at Department of Electronic and Convergence Engineering, Kyung Hee University, Korea</sub>"
 ---
 
 {% if page.subtitle %}{{ page.subtitle }}{% endif %}
