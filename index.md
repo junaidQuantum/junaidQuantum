@@ -1,16 +1,49 @@
 ## Junaid ur Rehman, Ph.D.
-### BK21 Reseach Professor and Postdoctoral Fellow
-Department of Electronic and Information Convergence Engineering  
+#### BK21 Reseach Professor and Postdoctoral Fellow
+Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea
 
 ## Research Interests
-General research interests include fundamentals of <span style="color:blue"> **quantum communication**</span> and <span style="color:blue"> **quantum sensing**</span>. Specific interests are finding performance limits, e.g., <span style="color:blue"> **channel capacity**</span> of quantum communication channels and/or <span style="color:blue"> **minimum achievable error** </span> in quantum parameter estimation problems. To this end, I utilize tools from <span style="color:blue"> **quantum information theory, machine learning, linear algebra, and majorization theory**</span>.
+General research interests include fundamentals of <span style="color:blue"> **quantum communication**</span>, <span style="color:blue"> **NISQ computing**</span>,  and <span style="color:blue"> **quantum sensing**</span>. Specific interests are finding performance limits, e.g., <span style="color:blue"> **channel capacity**</span> of quantum communication channels and/or <span style="color:blue"> **minimum achievable error** </span> in quantum parameter estimation problems. To this end, I utilize tools from <span style="color:blue"> **quantum information theory, machine learning, linear algebra, and majorization theory**</span>.
 
 ## Online Profile
 - [Google Scholar](https://scholar.google.com/citations?user=EptCk9MAAAAJ&hl=en)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138)
 - [Researchgate](https://www.researchgate.net/profile/Junaid-Ur-Rehman-3)
-  
+
+## Research Experience
+- **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 -- Present</span>  
+Department of Electronics and Information Convergence Engineering  
+Kyung Hee University, Korea  
+***Research Area:*** Quantum Information Science  
+
+- **Postdoctoral Fellow** <span style="float:right">September 2020 -- December 2020</span>  
+Center for Quantum Information  
+Korea Institute of Science and Technology (KIST), Korea  
+***Research Area:*** Quantum Information Science  
+
+- **Postdoctoral Fellow** <span style="float:right">September 2019 -- August 2020</span>  
+Department of Electronic and Information Convergence Engineering  
+Kyung Hee University, Korea  
+***Research Area:*** Quantum Information Science  
+
+- **Research Associate** <span style="float:right">December 2013 -- August 2014</span>  
+Center for Advanced Studies in Telecommunication (CAST)   
+COMSATS University Islamabad, Pakistan  
+***Research Area:*** Image Processing  
+
+
+## Education
+- **Ph.D. in Electronic Engineering** <span style="float:right">September 2014 -- August 2019</span>  
+Department of Electronic Engineering  
+Kyung Hee University, Korea  
+***Thesis Title:*** Dequantumization of Discrete Weyl Quantum Channels
+
+- **BE in Electrical Engineering** <span style="float:right">September 2014 -- August 2019</span>  
+Department of Electrical Engineering  
+National University of Sciences and Technology (NUST), Pakistan  
+***Thesis Title:*** Multivariate PID Controlloer with HMI
+
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ## Welcome to GitHub Pages
 
