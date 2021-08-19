@@ -1,5 +1,5 @@
 ### BK21 Reseach Professor and Postdoctoral Fellow
-<p>Department of Electronic and Information Convergence Engineering</br>
+<p>Department of Electronic and Information Convergence Engineering\
 Kyung Hee University, Korea</p>
 
   
