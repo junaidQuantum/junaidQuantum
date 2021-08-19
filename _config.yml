@@ -1,3 +1,5 @@
 name: Research Profile
 title: null
 markdown: kramdown
+
+theme: jekyll-theme-slate
