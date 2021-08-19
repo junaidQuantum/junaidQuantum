@@ -11,6 +11,7 @@ General research interests include fundamentals of **quantum communication** and
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138)
 - [Researchgate](https://www.researchgate.net/profile/Junaid-Ur-Rehman-3)
   
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/junaidQuantum/junaidQuantum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
