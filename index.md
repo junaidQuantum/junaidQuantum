@@ -1,3 +1,4 @@
+## Junaid ur Rehman, Ph.D.
 ### BK21 Reseach Professor and Postdoctoral Fellow
 <p>Department of Electronic and Information Convergence Engineering\
 Kyung Hee University, Korea</p>
