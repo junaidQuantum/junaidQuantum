@@ -4,7 +4,7 @@ Department of Electronic and Information Convergence Engineering
 Kyung Hee University, Korea
 
 ## Research Interests
-General research interests include fundamentals of **quantum communication** and **quantum sensing**. Specific interests are finding performance limits, e.g., **channel capacity** of quantum communication channels and/or **minimum achievable error** in quantum parameter estimation problems. To this end, I utilize tools from **quantum information theory, machine learning, linear algebra, and majorization theory**.
+General research interests include fundamentals of <span style="color:blue"> **quantum communication**</span> and <span style="color:blue"> **quantum sensing**</span>. Specific interests are finding performance limits, e.g., <span style="color:blue"> **channel capacity**</span> of quantum communication channels and/or <span style="color:blue"> **minimum achievable error** </span> in quantum parameter estimation problems. To this end, I utilize tools from <span style="color:blue"> **quantum information theory, machine learning, linear algebra, and majorization theory**</span>.
 
 ## Online Profile
 - [Google Scholar](https://scholar.google.com/citations?user=EptCk9MAAAAJ&hl=en)
