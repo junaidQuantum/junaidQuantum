@@ -65,3 +65,5 @@ National University of Sciences and Technology (NUST), Pakistan
 13. S. Qaisar, **J. ur Rehman**, Y. Jeong, and H. Shin, “Practical deterministic secure quantum communication in a lossy channel,” *Prog. Theor. Exp. Phys.*, vol. 2017, no. 4, pp. 1–12, Apr. 2017.
 14. **J. ur Rehman**, S. Qaisar, Y. Jeong, and H. Shin,“Security of a control key in quantum key distribution,” *Modern Physics Letters B*, vol. 31, no. 11, pp. 1–12, Apr. 2017.
 15. T. Bashir, I. Usman, and **J. ur Rehman**, “Secure digital watermarking using optimized improved spread spectrum and BCH coding for DIBR 3D-TV system,” *Multimedia Tools and Applications*, vol. 75, no. 13, pp. 7697–7713, Jul. 2016.
+
+<span style="float:right">[Go to top](#junaid-ur-rehman-phd)</span>
