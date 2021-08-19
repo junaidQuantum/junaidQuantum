@@ -1,10 +1,3 @@
----
-title: "Junaid ur Rehman\
-<sub>BK21 Research Professor and Postdoctoral Fellow at Department of Electronic and Convergence Engineering, Kyung Hee University, Korea</sub>"
----
-
-{% if page.subtitle %}{{ page.subtitle }}{% endif %}
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/junaidQuantum/junaidQuantum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
