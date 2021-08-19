@@ -1,8 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
-</head>
-
-
 ## Junaid ur Rehman, Ph.D.
 #### BK21 Reseach Professor and Postdoctoral Fellow
 Department of Electronics and Information Convergence Engineering  
