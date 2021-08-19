@@ -1,6 +1,3 @@
----
-repo:
----
 ## Junaid ur Rehman, Ph.D.
 
 
