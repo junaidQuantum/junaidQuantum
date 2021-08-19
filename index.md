@@ -1,7 +1,11 @@
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+
 ## Junaid ur Rehman, Ph.D.
 ### BK21 Reseach Professor and Postdoctoral Fellow
 Department of Electronic and Information Convergence Engineering  
 Kyung Hee University, Korea
+
+
 
   
 ## Welcome to GitHub Pages
