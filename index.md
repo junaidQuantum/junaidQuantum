@@ -1,3 +1,8 @@
+### BK21 Reseach Professor and Postdoctoral Fellow
+<p>Department of Electronic and Information Convergence Engineering</br>
+Kyung Hee University, Korea</p>
+
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/junaidQuantum/junaidQuantum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
