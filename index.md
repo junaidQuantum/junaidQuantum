@@ -52,37 +52,21 @@ National University of Sciences and Technology (NUST), Pakistan
 ## Journal Papers
 
 1. S. Hong, **J. ur Rehman**, Y.-S. Kim, Y.-W. Cho, S.-W. Lee, H. Jung, S. Moon, S.-W. Han, and H.-T. Lim, “Quantum enhanced multiple phase estimation with multi-mode *N00N* states,” Accepted for publication in *Nat. Commun.*, 2021.
-2. S. Ramadhani, **J. ur Rehman**, and H. Shin, "Quantum Error Mitigation for Quantum State Tomography," *IEEE Access*, vol. 9, pp. 107955-107964, Jul. 2021.  
-[[Link](https://ieeexplore.ieee.org/document/9502081)] [[BibTeX]()]
-2. **J. ur Rehman** and H. Shin, “Entanglement-free parameter estimation of generalized Pauli Channels,” *Quantum*, 5:490, Jul. 2021.  
-[[Link](https://quantum-journal.org/papers/q-2021-07-01-490/)] [[BibTeX]()]
-2. U. Khalid, **J. ur Rehman**, and H. Shin, “Metrologically resourceful multipartite entanglement under quantum many-body effects,” *Quantum Sci. Technol.*, 6:025007, Jan. 2021.  
-[[Link](https://iopscience.iop.org/article/10.1088/2058-9565/abd893)] [[BibTeX]()]
-3. **J. ur Rehman**, A. Farooq, and H. Shin, “Discrete Weyl channels with Markovian memory,” *IEEE J. Sel. Area. Commun.*, vol. 38, no. 3, pp. 413-426, Mar. 2020.  
-[[Link](https://ieeexplore.ieee.org/abstract/document/8967043)] [[BibTeX]()]
-4. M. A. Ullah, **J. ur Rehman**, and H. Shin, “Quantum frequency synchronization of distant clock oscillators,” *Quantum Inf. Process.*, 19:144, Mar. 2020.  
-[[Link](https://link.springer.com/article/10.1007/s11128-020-02644-2)] [[BibTeX]()]
-5. U. Khalid, **J. ur Rehman**, and H. Shin, “Measurement-based quantum correlations for quantum information processing,” *Sci. Rep.*, 10:2443, Feb. 2020.  
-[[Link](https://www.nature.com/articles/s41598-020-59220-y)] [[BibTeX]()]
-6. A. Khan, **J. ur Rehman**, K. Wang, and H. Shin, “Unified monogamy relations of multipartite entanglement,” Sci. Rep., 9:16419, Nov. 2019.  
-[[Link](https://www.nature.com/articles/s41598-019-52817-y)] [[BibTeX]()]
-7. **J. ur Rehman** and H. Shin, “Purity-based continuity bounds for von Neumann entropy,” *Sci. Rep.*, 9:13912, Sep. 2019.  
-[[Link](https://www.nature.com/articles/s41598-019-50309-7)] [[BibTeX]()]
-8. **J. ur Rehman**, Y. Jeong, and H. Shin, “Directly estimating the Holevo capacity of discrete Weyl channels,” *Phys. Rev. A*, 99:042312, Apr. 2019.  
-[[Link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.042312)] [[BibTeX]()]
-9. A. Farooq, **J. ur Rehman**, Y. Jeong, J. S. Kim, and H. Shin, “Tightening monogamy and polygamy inequalities of multiqubit entanglement,” *Sci. Rep.*, 9:3314, Mar. 2019.  
-[[Link](https://www.nature.com/articles/s41598-018-37731-z)] [[BibTeX]()]
-10. **J. ur Rehman**, Y. Jeong, J. S. Kim, and H. Shin, “Holevo capacity of discrete Weyl channels,” *Sci. Rep.*, 8:17457, Nov. 2018.  
-[[Link](https://www.nature.com/articles/s41598-018-35777-7)] [[ArXiv Link](https://arxiv.org/abs/2003.01942)] [[BibTeX]()]
-11. **J. ur Rehman**, A. Farooq, Y. Jeong, and H. Shin, “Quantum channel discrimination without entanglement,” *Quantum Inf. Process.*, 17:271, Oct. 2018.  
-[[Link](https://link.springer.com/article/10.1007/s11128-018-2037-0)] [[BibTeX]()]
-12. T. Bashir, I. Usman, S. Khan, and **J. ur Rehman**,“Intelligent reorganized discrete cosine transformfor reduced reference image quality assessment,” *Turk. J. Elec. Eng. & Comp. Sci.*, vol. 25, no. 4, p. 2660, Jul. 2017.  
-[[Link](https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=20990)] [[BibTeX]()]
-13. S. Qaisar, **J. ur Rehman**, Y. Jeong, and H. Shin, “Practical deterministic secure quantum communication in a lossy channel,” *Prog. Theor. Exp. Phys.*, vol. 2017, no. 4, pp. 1–12, Apr. 2017.  
-[[Link](https://academic.oup.com/ptep/article/2017/4/041A01/3105630)] [[BibTeX]()]
-14. **J. ur Rehman**, S. Qaisar, Y. Jeong, and H. Shin,“Security of a control key in quantum key distribution,” *Modern Physics Letters B*, vol. 31, no. 11, pp. 1–12, Apr. 2017.  
-[[Link](https://www.worldscientific.com/doi/abs/10.1142/S0217984917501196)] [[BibTeX]()]
-15. T. Bashir, I. Usman, and **J. ur Rehman**, “Secure digital watermarking using optimized improved spread spectrum and BCH coding for DIBR 3D-TV system,” *Multimedia Tools and Applications*, vol. 75, no. 13, pp. 7697–7713, Jul. 2016.  
-[[Link](https://link.springer.com/article/10.1007/s11042-015-2689-z)] [[BibTeX]()]
+2. S. Ramadhani, **J. ur Rehman**, and H. Shin, "Quantum Error Mitigation for Quantum State Tomography," *IEEE Access*, vol. 9, pp. 107955-107964, Jul. 2021.  [[Link](https://ieeexplore.ieee.org/document/9502081)] [[BibTeX]()]
+2. **J. ur Rehman** and H. Shin, “Entanglement-free parameter estimation of generalized Pauli Channels,” *Quantum*, 5:490, Jul. 2021.  [[Link](https://quantum-journal.org/papers/q-2021-07-01-490/)] [[BibTeX]()]
+2. U. Khalid, **J. ur Rehman**, and H. Shin, “Metrologically resourceful multipartite entanglement under quantum many-body effects,” *Quantum Sci. Technol.*, 6:025007, Jan. 2021.  [[Link](https://iopscience.iop.org/article/10.1088/2058-9565/abd893)] [[BibTeX]()]
+3. **J. ur Rehman**, A. Farooq, and H. Shin, “Discrete Weyl channels with Markovian memory,” *IEEE J. Sel. Area. Commun.*, vol. 38, no. 3, pp. 413-426, Mar. 2020.  [[Link](https://ieeexplore.ieee.org/abstract/document/8967043)] [[BibTeX]()]
+4. M. A. Ullah, **J. ur Rehman**, and H. Shin, “Quantum frequency synchronization of distant clock oscillators,” *Quantum Inf. Process.*, 19:144, Mar. 2020.  [[Link](https://link.springer.com/article/10.1007/s11128-020-02644-2)] [[BibTeX]()]
+5. U. Khalid, **J. ur Rehman**, and H. Shin, “Measurement-based quantum correlations for quantum information processing,” *Sci. Rep.*, 10:2443, Feb. 2020.  [[Link](https://www.nature.com/articles/s41598-020-59220-y)] [[BibTeX]()]
+6. A. Khan, **J. ur Rehman**, K. Wang, and H. Shin, “Unified monogamy relations of multipartite entanglement,” Sci. Rep., 9:16419, Nov. 2019.  [[Link](https://www.nature.com/articles/s41598-019-52817-y)] [[BibTeX]()]
+7. **J. ur Rehman** and H. Shin, “Purity-based continuity bounds for von Neumann entropy,” *Sci. Rep.*, 9:13912, Sep. 2019.  [[Link](https://www.nature.com/articles/s41598-019-50309-7)] [[BibTeX]()]
+8. **J. ur Rehman**, Y. Jeong, and H. Shin, “Directly estimating the Holevo capacity of discrete Weyl channels,” *Phys. Rev. A*, 99:042312, Apr. 2019.  [[Link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.042312)] [[BibTeX]()]
+9. A. Farooq, **J. ur Rehman**, Y. Jeong, J. S. Kim, and H. Shin, “Tightening monogamy and polygamy inequalities of multiqubit entanglement,” *Sci. Rep.*, 9:3314, Mar. 2019.  [[Link](https://www.nature.com/articles/s41598-018-37731-z)] [[BibTeX]()]
+10. **J. ur Rehman**, Y. Jeong, J. S. Kim, and H. Shin, “Holevo capacity of discrete Weyl channels,” *Sci. Rep.*, 8:17457, Nov. 2018.  [[Link](https://www.nature.com/articles/s41598-018-35777-7)] [[ArXiv Link](https://arxiv.org/abs/2003.01942)] [[BibTeX]()]
+11. **J. ur Rehman**, A. Farooq, Y. Jeong, and H. Shin, “Quantum channel discrimination without entanglement,” *Quantum Inf. Process.*, 17:271, Oct. 2018.  [[Link](https://link.springer.com/article/10.1007/s11128-018-2037-0)] [[BibTeX]()]
+12. T. Bashir, I. Usman, S. Khan, and **J. ur Rehman**,“Intelligent reorganized discrete cosine transformfor reduced reference image quality assessment,” *Turk. J. Elec. Eng. & Comp. Sci.*, vol. 25, no. 4, p. 2660, Jul. 2017.  [[Link](https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=20990)] [[BibTeX]()]
+13. S. Qaisar, **J. ur Rehman**, Y. Jeong, and H. Shin, “Practical deterministic secure quantum communication in a lossy channel,” *Prog. Theor. Exp. Phys.*, vol. 2017, no. 4, pp. 1–12, Apr. 2017.  [[Link](https://academic.oup.com/ptep/article/2017/4/041A01/3105630)] [[BibTeX]()]
+14. **J. ur Rehman**, S. Qaisar, Y. Jeong, and H. Shin,“Security of a control key in quantum key distribution,” *Modern Physics Letters B*, vol. 31, no. 11, pp. 1–12, Apr. 2017.  [[Link](https://www.worldscientific.com/doi/abs/10.1142/S0217984917501196)] [[BibTeX]()]
+15. T. Bashir, I. Usman, and **J. ur Rehman**, “Secure digital watermarking using optimized improved spread spectrum and BCH coding for DIBR 3D-TV system,” *Multimedia Tools and Applications*, vol. 75, no. 13, pp. 7697–7713, Jul. 2016.  [[Link](https://link.springer.com/article/10.1007/s11042-015-2689-z)] [[BibTeX]()]
 
 <span style="float:right">[[Go to top](#junaid-ur-rehman-phd)]</span>  
