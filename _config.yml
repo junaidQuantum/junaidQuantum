@@ -3,5 +3,4 @@ title: Research Profile
 markdown: kramdown
 
 
-remote_theme: mmistakes/minimal-mistakes 
-
+theme: jekyll-theme-leap-day
