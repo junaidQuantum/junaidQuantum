@@ -57,7 +57,7 @@ National University of Sciences and Technology (NUST), Pakistan
 
 ## Journal Papers
 
-1. S.~Hong, **J. ur Rehman**, Y.-S.~Kim, Y.-W.~Cho, S.-W.~Lee, H.~Jung, S.~Moon, S.-W.~Han, and H.-T.~Lim,
+1. S. Hong, **J. ur Rehman**, Y.-S. Kim, Y.-W. Cho, S.-W. Lee, H. Jung, S. Moon, S.-W. Han, and H.-T. Lim,
 ''Quantum enhanced multiple phase estimation with multi-mode *N*00*N* states,'' *Nature Communications*, vol. 12, p. 5211, Sep. 2021.
 [[Link](https://www.nature.com/articles/s41467-021-25451-4){:target="_blank" rel="noopener"}]
 2. S. Ramadhani, **J. ur Rehman**, and H. Shin, "Quantum Error Mitigation for Quantum State Tomography," *IEEE Access*, vol. 9, pp. 107955-107964, Jul. 2021.  [[Link](https://ieeexplore.ieee.org/document/9502081){:target="_blank" rel="noopener"}] [[BibTeX](https://github.com/junaidQuantum/junaidQuantum.github.io/raw/gh-pages/files/bibs/21_RRS_Access.bib){:target="_blank" rel="noopener"}]
