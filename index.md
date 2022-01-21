@@ -16,7 +16,6 @@ General research interests include fundamentals of <span style="color:blue"> **q
 - [Google Scholar](https://scholar.google.com/citations?user=EptCk9MAAAAJ&hl=en){:target="_blank" rel="noopener"}
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138){:target="_blank" rel="noopener"}
 - [Researchgate](https://www.researchgate.net/profile/Junaid-Ur-Rehman-3){:target="_blank" rel="noopener"}
-- [Download my PDF CV](https://github.com/junaidQuantum/junaidQuantum.github.io/raw/gh-pages/files/1.%20JRehman-CV-Delta.pdf)
 
 ## Research Experience
 - **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — Present</span>  
