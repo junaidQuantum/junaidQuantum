@@ -20,7 +20,7 @@ General research interests include fundamentals of <span style="color:blue"> **q
 ## Research Experience
 - **Research Associate** <span style="float:right">June 2022 — Present</span>  
 Interdisciplinary Center for Security, Reliability and Trust   
-University of Luxembourg, Luxembourg
+University of Luxembourg, Luxembourg  
 ***Research Area:*** Quantum Information Sciences  
 
 - **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — May 2022</span>  
