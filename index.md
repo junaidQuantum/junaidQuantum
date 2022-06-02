@@ -1,11 +1,11 @@
 ## Junaid ur Rehman, Ph.D.
 
 
-**BK21 Reseach Professor and Postdoctoral Fellow**  <img align="right" src="files/photo.JPG" 
+**Research Associate**  <img align="right" src="files/photo.JPG" 
                                                          width = "95"
                                                          height = "100"/>  
-Department of Electronics and Information Convergence Engineering  
-Kyung Hee University, Korea
+Interdisciplinary Center for Security, Reliability and Trust  
+University of Luxembourg, Luxembourg
 
 <link rel="shortcut icon" type="image/png" href="{{ "icon.png" | prepend: site.baseurl }}" >
 
