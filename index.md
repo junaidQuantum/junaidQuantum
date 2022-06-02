@@ -61,8 +61,10 @@ National University of Sciences and Technology (NUST), Pakistan
 
 ## Journal Papers
 
-1. D. Lee, J. Lee, S. Hong, H.-T. Lim, Y.-W. Cho, S.-W. Han, H. Shin, **J. ur Rehman**, and Y.-S. Kim, “Error-mitigated photonic variational quantum eigensolver using a single-photon ququart,” *Optica*, vol. 9, no. 1, pp. 88–95, Jan. 2022. (<span style="color:red">co-corresponding author</span>) [[Link](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-9-1-88&id=468374){:target="_blank" rel="noopener"}]
-2. A. Khan, U. Khalid, **J. ur Rehman**, K. Lee, and H. Shin, “Quantum anonymous collision detection for quantum networks,”
+
+1. **J. ur Rehman**, S. Hong, Y.-S. Kim, and H. Shin, “Variational estimation of capacity bounds for quantum channels,” Physical Review A, 105:032616, Mar. 2022. [[Link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.032616){:target="_blank" rel="noopener"}]. 
+2. D. Lee, J. Lee, S. Hong, H.-T. Lim, Y.-W. Cho, S.-W. Han, H. Shin, **J. ur Rehman**, and Y.-S. Kim, “Error-mitigated photonic variational quantum eigensolver using a single-photon ququart,” *Optica*, vol. 9, no. 1, pp. 88–95, Jan. 2022. (<span style="color:red">co-corresponding author</span>) [[Link](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-9-1-88&id=468374){:target="_blank" rel="noopener"}]
+3. A. Khan, U. Khalid, **J. ur Rehman**, K. Lee, and H. Shin, “Quantum anonymous collision detection for quantum networks,”
 *EPJ Quantum Technology*, vol. 8, no. 1, p. 27, Dec. 2021. [[Link](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00116-9){:target="_blank" rel="noopener"}]
 2. A. Khan, **J. ur Rehman**, and H. Shin, “Quantum anonymous notification for network-based applications,” *Quantum
 Information Processing*, vol. 20, no. 12, p. 397, Nov. 2021. [[Link](https://link.springer.com/article/10.1007/s11128-021-03339-y){:target="_blank" rel="noopener"}]
