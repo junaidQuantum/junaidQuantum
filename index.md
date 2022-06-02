@@ -18,20 +18,25 @@ General research interests include fundamentals of <span style="color:blue"> **q
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138){:target="_blank" rel="noopener"} [<span style="color:red">Requires Subscription/Account!</span>]
 
 ## Research Experience
-- **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — Present</span>  
+- **Research Associate** <span style="float:right">June 2022 — Present</span>  
+Interdisciplinary Center for Security, Reliability and Trust   
+University of Luxembourg, Luxembourg
+***Research Area:*** Quantum Information Sciences  
+
+- **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — May 2022</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
-***Research Area:*** Quantum Information Science  
+***Research Area:*** Quantum Information Sciences  
 
 - **Postdoctoral Fellow** <span style="float:right">September 2020 — December 2020</span>  
 Center for Quantum Information  
 Korea Institute of Science and Technology (KIST), Korea  
-***Research Area:*** Quantum Information Science  
+***Research Area:*** Quantum Information Sciences  
 
 - **Postdoctoral Fellow** <span style="float:right">September 2019 — August 2020</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
-***Research Area:*** Quantum Information Science  
+***Research Area:*** Quantum Information Sciences  
 
 - **Research Associate** <span style="float:right">December 2013 — August 2014</span>  
 Center for Advanced Studies in Telecommunication (CAST)   
