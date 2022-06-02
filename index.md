@@ -26,17 +26,17 @@ University of Luxembourg, Luxembourg
 - **BK21 Research Professor and Postdoctoral Fellow** <span style="float:right">January 2021 — May 2022</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
-***Research Area:*** Quantum Information Sciences  
+***Research Area:*** NISQ Computing, Quantum Communications  
 
 - **Postdoctoral Fellow** <span style="float:right">September 2020 — December 2020</span>  
 Center for Quantum Information  
 Korea Institute of Science and Technology (KIST), Korea  
-***Research Area:*** Quantum Information Sciences  
+***Research Area:*** Experimental Quantum Metrology, NISQ Computing  
 
 - **Postdoctoral Fellow** <span style="float:right">September 2019 — August 2020</span>  
 Department of Electronics and Information Convergence Engineering  
 Kyung Hee University, Korea  
-***Research Area:*** Quantum Information Sciences  
+***Research Area:*** Quantum Metrology, Quantum Communications  
 
 - **Research Associate** <span style="float:right">December 2013 — August 2014</span>  
 Center for Advanced Studies in Telecommunication (CAST)   
