@@ -51,7 +51,7 @@ Department of Electronic Engineering
 Kyung Hee University, Korea  
 ***Thesis Title:*** Dequantumization of Discrete Weyl Quantum Channels
 
-- **BE in Electrical Engineering** <span style="float:right">September 2014 — August 2019</span>  
+- **BE in Electrical Engineering** <span style="float:right">September 2009 — August 2013</span>  
 Department of Electrical Engineering  
 National University of Sciences and Technology (NUST), Pakistan  
 ***Thesis Title:*** Multivariate PID Controlloer with HMI
