@@ -10,7 +10,7 @@ University of Luxembourg, Luxembourg
 <link rel="shortcut icon" type="image/png" href="{{ "icon.png" | prepend: site.baseurl }}" >
 
 ## Research Interests
-General research interests include fundamentals of <span style="color:blue"> **quantum communication**</span>, <span style="color:blue"> **NISQ computing**</span>,  and <span style="color:blue"> **quantum sensing**</span>. Specific interests are finding performance limits, e.g., <span style="color:blue"> **channel capacity**</span> of quantum communication channels and/or <span style="color:blue"> **minimum achievable error** </span> in quantum parameter estimation problems. To this end, I utilize tools from <span style="color:blue"> **quantum information theory, probability theory, machine learning, linear algebra, and majorization theory**</span>.
+General research interests include fundamentals of <span style="color:blue"> **quantum information sciences**</span>. Specific interests are finding performance limits, e.g., <span style="color:blue"> **channel capacity**</span> of quantum communication channels and/or <span style="color:blue"> **applying quantum computing algorithms** </span> to the problems of practical interest in communication systems. To this end, I utilize tools from <span style="color:blue"> **quantum information theory, probability theory, machine learning, linear algebra, and complexity theory**</span>.
 
 **Online Profiles:**
 - [Google Scholar](https://scholar.google.com/citations?user=EptCk9MAAAAJ&hl=en){:target="_blank" rel="noopener"}
