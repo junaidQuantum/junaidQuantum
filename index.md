@@ -1,11 +1,13 @@
 ## Junaid ur Rehman, Ph.D.
 
 
-**Research Scientist**  <img align="right" src="files/photo.JPG" 
+**Assistant Professor**  <img align="right" src="files/photo.JPG" 
                                                          width = "95"
                                                          height = "100"/>  
-Interdisciplinary Center for Security, Reliability and Trust  
-University of Luxembourg, Luxembourg
+Department of Electrical Engineering  
+King Fahd University of Petroleum and Minerals  
+Dhahran, Saudi Arabia  
+
 
 <link rel="shortcut icon" type="image/png" href="{{ "icon.png" | prepend: site.baseurl }}" >
 
@@ -18,7 +20,7 @@ General research interests include fundamentals of <span style="color:blue"> **q
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193760138){:target="_blank" rel="noopener"} [<span style="color:red">Requires Subscription/Account!</span>]
 
 ## Research Experience
-- **Research Scientist** <span style="float:right">January 2023 — Present</span>  
+- **Research Scientist** <span style="float:right">January 2023 — October 2024</span>  
 Interdisciplinary Center for Security, Reliability and Trust   
 University of Luxembourg, Luxembourg  
 ***Research Area:*** Quantum Information Sciences
